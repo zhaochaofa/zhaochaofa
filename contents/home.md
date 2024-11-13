@@ -5,12 +5,15 @@
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+chaofa.zhao[at]zju.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Biograph
+Dr. Chaofa Zhao is currently a “100-Talents Program” Professor of Civil Engineering at Zhejiang University in China. He was the recipient of the European Marie-Curie Individual Fellowship (2019). In 2021, he obtained the competitive National Natural Science Fund for Excellent Young Scientists (Overseas). He is an enthusiastic and entrepreneurial scientist fascinated by the behaviour of soil-like granular materials at various scales. His research is aimed at understanding the behaviour of saturated and unsaturated granular soils under external loadings and developing novel design methods for geotechnical structures. He explores new and possibly revolutionary methods that will have a high impact on geotechnical engineering. To strive for his research objectives, he is currently interested in: (i) constitutive modelling of saturated and unsaturated granular soils, (ii) discrete element modelling of granular materials, (iii) micromechanics of granular materials, (iv) numerical modelling of geotechnical boundary value problems, and (v) laboratory experiments on granular soils and field tests on geotechnical structures.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+· Constitutive modelling of saturated and unsaturated granular soils
+· Micromechanics of granular materials
+· Discrete element modelling of granular materials
+· Numerical modelling of geotechnical boundary value problems
+· Laboratory tests on granular soils and peaty soils
 
