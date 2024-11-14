@@ -1,6 +1,6 @@
 
 
-[![Chaofa Zhao](https://img.shields.io/badge/zhaochaofa-github-blue?logo=github)](https://github.com/zhaochaofa)
+[![Chaofa Zhao](https://img.shields.io/badge/zhaochaofa-github-blue?logo=github)](https://zhaochaofa.github.io/)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
