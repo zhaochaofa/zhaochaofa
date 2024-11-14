@@ -12,8 +12,12 @@ Dr. Chaofa Zhao is currently a “100-Talents Program” Professor of Civil Engi
 
 #### Research Interests
 · Constitutive modelling of saturated and unsaturated granular soils
+
 · Micromechanics of granular materials
+
 · Discrete element modelling of granular materials
+
 · Numerical modelling of geotechnical boundary value problems
+
 · Laboratory tests on granular soils and peaty soils
 
