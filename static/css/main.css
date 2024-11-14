@@ -1,8 +1,7 @@
 @import "./styles.css";
 
-
-:root{
-    --h-title-color:#3948d2;
+:root {
+    --h-title-color: #3948d2;
 }
 
 .header {
@@ -20,6 +19,7 @@
     background-position: center;
     background-size: cover;
     height: 25rem;
+    margin-bottom: 2rem;  /* 增加下边距，防止与下方元素重叠 */
 }
 
 .top-section h2 {
@@ -41,19 +41,18 @@
     background: rgba(0, 0, 0, 0.5);
 }
 
-section header h2{
+section header h2 {
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
     font-size: 2.3rem;
     line-height: 4rem;
 }
 
-section .main-body{
+section .main-body {
     font-size: 1.3rem;
     font-weight: 200;
     line-height: 2.4rem;
 }
-
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;
@@ -62,8 +61,6 @@ section .main-body{
 .bg-gradient-primary-to-secondary-gray {
     background: linear-gradient(45deg, #f0f0f0, #f1f1f1) !important;
 }
-
-
 
 .on-top {
     position: relative;
@@ -87,11 +84,10 @@ section .main-body{
     background: rgba(0, 0, 0, 0.4);
 }
 
-
 #avatar {
     position: relative;
     height: 0;
-    top:min(-65px,max(-100px,calc(-1*100vw/12)));
+    top: min(-65px, max(-100px, calc(-1 * 100vw / 12)));
     max-width: 55em;
     margin: 0 1.5rem 0 0;
     float: right;
@@ -99,7 +95,7 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
+    height: max(130px, min(200px, calc(100vw / 6)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
@@ -107,6 +103,17 @@ section .main-body{
     #avatar {
         margin: 0;
     }
+
+    .top-section {
+        padding: 6rem 0;  /* 在小屏幕下减少 padding，避免内容过于拥挤 */
+        height: 20rem;  /* 调整小屏幕下的高度 */
+    }
+    
+    section header h2 {
+        font-size: 1.8rem;  /* 调整小屏幕下标题的字体大小 */
+    }
+
+    section .main-body {
+        font-size: 1.1rem;  /* 调整小屏幕下正文的字体大小 */
+    }
 }
-
-
