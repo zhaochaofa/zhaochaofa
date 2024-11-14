@@ -2,7 +2,7 @@
 
 [![Chaofa Zhao](https://img.shields.io/badge/zhaochaofa-github-blue?logo=github)](https://zhaochaofa.github.io/)
 
-He is currently a Dr. Chaofa Zhao is currently a “100-Talents Program” Professor of Civil Engineering at Zhejiang University in China. 
+“100-Talents Program” Professor of Civil Engineering at Zhejiang University in China. 
 
 #### Email
 chaofa.zhao@zju.edu.cn
