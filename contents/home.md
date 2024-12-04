@@ -1,6 +1,6 @@
 
 
-[![Chaofa Zhao](https://img.shields.io/badge/zhaochaofa-github-blue?logo=github)](https://zhaochaofa.github.io/)
+[![Chaofa Zhao](https://img.shields.io/badge/zhaochaofa-github-blue?logo=github)](https://zhaochaofa.github.io/zju/)
 
 “100-Talents Program” Professor of Civil Engineering at Zhejiang University in China. 
 
