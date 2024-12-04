@@ -1,3 +1,9 @@
+-Chen, J., <strong>Zhao, C. F.</strong>, Chen, Y. N. & Yang, Z. X. (2024). Effects of particle overall regularity and surface roughness on fabric evolution of granular materials: DEM simulations. <strong>International Journal for Numerical and Analytical Methods in Geomechanics</strong>, 48, 3284-3307. [[Paper]](https://doi.org/10.1016/j.jrmge.2021.10.014)
+
+-Argilaga, A., <strong>Zhao, C. F.</strong>, Li, H. Z. & Lei, L. (2024). Synthesizing microstructures of a partially frozen salty sand using voxel-based 3D generative adversarial networks. <strong>Computers and Geotechnics</strong>, 170, 106247. [[Paper]](https://doi.org/10.1016/j.compgeo.2024.106247)
+
+-Argilaga, A. & <strong>Zhao, C. F.</strong> (2023). Rupture distances and capillary forces of liquid bridges: Closed-form expressions and ANNs-trained prediction models. <strong>Powder Technology</strong>, 427, 118702. [[Paper]](https://doi.org/10.1016/j.powtec.2023.118702)
+
 -<strong>Zhao, C. F.</strong>, Kruyt, N. P., Pouragha, M. & Wan, R. (2022). Fabric response to stress probing in granular materials: Two-dimensional, anisotropic systems. <strong>Computers and Geotechnics</strong>, 146, 104695. [[Paper]](https://doi.org/10.1016/j.compgeo.2022.104695)
 
 -Pan, K., Yuan, Z.H., <strong>Zhao, C. F.</strong>, Tong, J.H. & Yang, Z.X. (2021). Undrained shear and stiffness degradation of intact marine clay under monotonic and cyclic loading. <strong>Engineering Geology</strong>, 297, 106502. [[Paper]](https://doi.org/10.1016/j.enggeo.2021.106502)
