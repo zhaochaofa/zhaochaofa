@@ -1,4 +1,4 @@
--Chen, J., <strong>Zhao, C. F.</strong>, Chen, Y. N. & Yang, Z. X. (2024). Effects of particle overall regularity and surface roughness on fabric evolution of granular materials: DEM simulations. <strong>International Journal for Numerical and Analytical Methods in Geomechanics</strong>, 48, 3284-3307. [[Paper]](https://doi.org/10.1016/j.jrmge.2021.10.014)
+-Chen, J., <strong>Zhao, C. F.</strong>, Chen, Y. N. & Yang, Z. X. (2024). Effects of particle overall regularity and surface roughness on fabric evolution of granular materials: DEM simulations. <strong>International Journal for Numerical and Analytical Methods in Geomechanics</strong>, 48, 3284-3307. [[Paper]](https://doi.org/10.1002/nag.3792)
 
 -Argilaga, A., <strong>Zhao, C. F.</strong>, Li, H. Z. & Lei, L. (2024). Synthesizing microstructures of a partially frozen salty sand using voxel-based 3D generative adversarial networks. <strong>Computers and Geotechnics</strong>, 170, 106247. [[Paper]](https://doi.org/10.1016/j.compgeo.2024.106247)
 
